@@ -1,14 +1,13 @@
+
 {
   "name": "blog",
   "version": "1.0.0",
   "description": "my blog",
   "main": "app.js",
   "scripts": {
+    "start":"node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Sahil",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.16.4"
-  }
+  "license": "ISC"
 }
